@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Prototype_App</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="email_prompt">Email/Username</string>
+    <string name="password_prompt">Password</string>
+    <string name="login_prompt">Log In</string>
+    <string name="register_pre_prompt">If you don\'t have an account then select</string>
+    <string name="register_prompt">Register</string>
+    <string name="or">OR</string>
+    <string name="fb_login">Log in with Facebook</string>
+    <string name="recording_prompt">Press the button to start recording</string>
+</resources>
